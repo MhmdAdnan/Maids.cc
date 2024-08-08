@@ -11,10 +11,6 @@ RESTful API endpoints
 
 CRUD operations
 
-Validation and error handling
-
-Unit and integration tests
-
 
 *************Technologies Used*************
 
