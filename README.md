@@ -29,7 +29,7 @@ H2 database
 Spring Validation
 
 *************Installation*************
-Clone the repository:    *https://github.com/MhmdAdnan/TestMaids.cc*
+Clone the repository:    *https://github.com/MhmdAdnan/Maids.cc*
 
 
 *************How to use REST API*************
